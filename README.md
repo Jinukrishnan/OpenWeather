@@ -45,9 +45,11 @@ Technologies Used
     Installation & Setup
 
 1.Create a project weather app using vite
+
     npm create vite@latest weatherapp
     
 2.Install dependencies
+
     npm install
     
 3.Get an OpenWeatherMap API Key
@@ -59,4 +61,5 @@ Technologies Used
     Replace API_KEY in App.js with your key.
     
 4.Run the application
+
     npm start

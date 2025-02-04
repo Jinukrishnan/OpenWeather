@@ -6,23 +6,23 @@ This is a weather application built using React.js that allows users to check th
 
 Features
 
-Fetch weather data for any location using OpenWeatherMap API.
+    Fetch weather data for any location using OpenWeatherMap API.
 
-Get current location's weather automatically.
+    Get current location's weather automatically.
 
-Dynamic background images based on weather conditions.
+    Dynamic background images based on weather conditions.
 
-Display weather details including:
+    Display weather details including:
 
-Temperature
+        Temperature
 
-Humidity
+        Humidity
 
-Wind Speed
+        Wind Speed
 
-Pressure
+        Pressure
 
-Cloudiness
+        Cloudiness
 
     Search for weather by city name.
 
@@ -30,7 +30,7 @@ Cloudiness
 
     Toast notifications for errors.
 
-    Technologies Used
+Technologies Used
 
     React.js - Frontend framework
 

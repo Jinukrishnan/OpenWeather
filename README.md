@@ -44,9 +44,8 @@ Technologies Used
 
     Installation & Setup
 
-1.Clone the repository
-    git clone https://github.com/YOUR_USERNAME/weather-app.git
-    cd weather-app
+1.Create a project weather app using vite
+    npm create vite@latest weatherapp
 2.Install dependencies
     npm install
 3.Get an OpenWeatherMap API Key
